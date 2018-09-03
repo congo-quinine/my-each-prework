@@ -4,7 +4,7 @@
       yield array[i]
       i += 1  
     end 
-    
+    array
   end 
 
 
